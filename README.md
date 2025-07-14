@@ -92,28 +92,30 @@ This creates a natural voice assistant experience inside web app.
 ## Screenshots
 
 #### Login Page
+![Login Screenshot](assets/screenshots/login.png)
+
 <img width="1919" height="855" alt="Image" src="https://github.com/user-attachments/assets/0eeec186-9dbe-4b05-89e1-5e1dc2aa172e" />
 
 #### Home Page
-<img width="1900" height="904" alt="Image" src="https://github.com/user-attachments/assets/9e9eb50a-30e6-4e61-a3be-7eec27f144a4" />
+<img width="1900" height="904" alt="Image" src="assets/screenshots/home.png" />
 
 #### Collections Page
-<img width="1919" height="855" alt="Image" src="https://github.com/user-attachments/assets/87a83308-13ec-48ae-b2b6-a7abadae96f8" />
+<img width="1919" height="855" alt="Image" src="assets/screenshots/collections.png" />
 
 #### Single Product View
-<img width="1899" height="874" alt="Image" src="https://github.com/user-attachments/assets/1d6ddb2a-4cf9-4367-88d1-bdde749ae06e" />
+<img width="1899" height="874" alt="Image" src="assets/screenshots/single.png" />
 
 #### Cart Page
-<img width="1874" height="889" alt="Image" src="https://github.com/user-attachments/assets/4b8e4ed7-4beb-401e-8450-5de385d95dca" />
-<img width="1901" height="886" alt="Image" src="https://github.com/user-attachments/assets/1563ca09-dce3-4efd-9cdd-b9f0aaa7aa8f" />
+<img width="1874" height="889" alt="Image" src="assets/screenshots/cart1.png" />
+<img width="1901" height="886" alt="Image" src="assets/screenshots/cart2.png" />
 
 ### Using Voice
-<img width="250" height="850" alt="Image" src="https://github.com/user-attachments/assets/38e4234e-f595-4df0-b627-a879a423f3bf" />
+<img width="250" height="850" alt="Image" src="assets/screenshots/voice.gif" />
 
 ### Admin Panel
 
 #### Add Product
-<img width="1915" height="842" alt="Image" src="https://github.com/user-attachments/assets/726c370e-0581-47f5-b0eb-ca674616dc29" />
+<img width="1915" height="842" alt="Image" src="assets/screenshots/admin.png" />
 
 ---
 
