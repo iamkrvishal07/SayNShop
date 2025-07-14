@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { IoEye, IoEyeOutline } from "react-icons/io5"
 import { signInWithPopup } from 'firebase/auth'
 import { auth, provider } from '../../utils/Firebase'
-import { authDataContext } from '../context/authContext'
+import { authDataContext } from '../context/AuthContext'
 import { userDataContext } from '../context/UserContext'
 import axios from 'axios'
 import Loading from '../component/Loading'
