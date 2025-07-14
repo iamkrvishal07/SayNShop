@@ -17,7 +17,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
- origin:["https://frontend1-3th9.onrender.com" , "http://localhost:5174"],
+ origin:["https://frontend1-3th9.onrender.com" , "https://admin-yghd.onrender.com"],
  credentials:true
 }))
 
