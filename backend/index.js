@@ -28,6 +28,9 @@ app.use("/api/cart",cartRoutes)
 app.use("/api/order",orderRoutes)
 
 
+app.get("/", (req, res) => {
+  res.send("Server is up and running!");
+});
 
 
 app.listen(port,()=>{
