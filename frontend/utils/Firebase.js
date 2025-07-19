@@ -4,7 +4,7 @@ const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_APIKEY ,
   authDomain: "saynshop-ea1fe.firebaseapp.com",
   projectId: "saynshop-ea1fe",
-  storageBucket: "saynshop-ea1fe.firebasestorage.app",
+  storageBucket: "saynshop-ea1fe.appspot.com",
   messagingSenderId: "477099259510",
   appId: "1:477099259510:web:54ce70b98ababfcec85157"
 };
